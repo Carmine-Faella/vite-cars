@@ -7,5 +7,5 @@ export default {
 </script>
 
 <template>
-   
+   <h1>Non tovata!</h1>
 </template>
